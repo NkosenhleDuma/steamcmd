@@ -3,7 +3,7 @@
 ############################################################
 FROM debian:buster-slim
 
-LABEL maintainer="walentinlamonos@gmail.com"
+LABEL maintainer="personal.godsonduma@gmail.com"
 ARG PUID=1000
 
 ENV STEAMCMDDIR /home/steam/steamcmd
